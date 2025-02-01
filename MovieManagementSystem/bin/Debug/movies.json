@@ -1,0 +1,10 @@
+[
+  {
+    "movieID": 1,
+    "movieTitle": "Hello world",
+    "movieGenre": 0,
+    "movieDirector": "Yui Harshashi",
+    "releaseDate": "2025-02-01T12:01:18.6846522+05:30",
+    "releaseYear": 2025
+  }
+]
